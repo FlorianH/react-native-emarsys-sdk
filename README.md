@@ -5,6 +5,8 @@
 
 React Native wrapper for Emarsys SDK.
 
+Beep.
+
 For further information about how to use the wrapper please visit our [Documentation](https://github.com/emartech/react-native-emarsys-sdk/wiki "Wiki").
 
 ## Sample app
